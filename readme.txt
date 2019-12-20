@@ -1,2 +1,3 @@
 Git is a version system.
-Git is free soft ware
+Git is free software.
+a new line
